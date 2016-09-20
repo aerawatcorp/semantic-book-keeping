@@ -1,8 +1,11 @@
 # semantic-book-keeping
 Simple Book Keeping (Accounting) using normal human semantics.
 
-## idea
+## philosophy
 book Keeping should be as easier as we write down to remember any financial matters.
+
+## idea
+write now, analyse later
 
 ## approach
 simple human-like syntax to depict daily transactions.

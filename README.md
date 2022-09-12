@@ -15,5 +15,21 @@ write now, analyse later
 simple human-like syntax to depict daily transactions.
 
 ## example
+```
 @myself paid @my_wife 10000 for some reasons (tokens : myself, paid, wife, 10000, some-reasons)
+```
+__Output__
+
+- Paid by - Myself
+- Paid to - Wife of Myself
+- Amount Paid - 10000
+- Remarks - Some reasons
+
+```
 @myself received from @some_friend Rs 10000 for short term (tokens: myself, received, some_friend, 10000, short term)
+```
+__Output__
+- Paid by - Some Friend
+- Paid to - Myself
+- Amount Paid (received) - 10000
+- Remarks - short term
